@@ -19,6 +19,9 @@ How can we pinpoint where denials occur in the claims process, identify the segm
 
 Stakeholders: CFO · Revenue Cycle Director · Billing Operations · Payer Contracting
 
+<img width="884" height="331" alt="image" src="https://github.com/user-attachments/assets/d78dc63a-379e-47fc-a879-3c462f48a7d8" />
+
+
 ---
 
 # Methodology
